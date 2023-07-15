@@ -45,7 +45,7 @@
   
 Tenho 22 anos, Moro no Rio de Janeiro. Sou apaixonado por tecnologia e finanças. Acredito que a junção das duas áreas é uma explosão de ternura. Estou amando escrever códigos e aprender novos recursos dentro da programação e desenvolvimento. Sei o potencial que esta área tem hoje em dia e o quão está aquecida. Através dos meus conhecimentos quero levar a solução e inovação, assim ultrapassando nossas próprias expectativas.
 
- 📧 Contate-me a qualquer momento: devnath.oficial@gmaill.com<br/><br/>
+ 📧 Contate-me a qualquer momento: devnath.oficial@gmail.com<br/><br/>
 
 </p>
 
