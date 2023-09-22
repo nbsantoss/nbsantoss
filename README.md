@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 Estudante de Programação, Desenvolvimento e Design de Aplicativos e Web. Com foco em Desenvolvimento Full-Stack</b> 」
+    「 Estudante de Programação e com foco em Backend</b> 」
     <br>
     <br>
   </samp>
