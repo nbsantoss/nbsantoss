@@ -21,7 +21,7 @@
 <a href="https://wa.me/5521997270969" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="devnath.oficial@gmail.com" target="_blank">
+<a href="nathanbatista7312@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/nathan.dossantos.9047" target="_blank">
