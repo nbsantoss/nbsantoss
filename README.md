@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 Estudante de Programação e desenvolvimento com foco em Backend</b> 」
+    「 Desenvolvedor Backend Java</b> 」
     <br>
     <br>
   </samp>
