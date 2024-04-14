@@ -79,4 +79,6 @@ Tenho 23 anos, Moro no Rio de Janeiro. Sou uma pessoa que tenho um profundo inte
 <img aling="center" alt="" src=""/>
 </div><br/>
 
+![snake animation](https://github.com/nathdevv/nathdevv/blob/output/github-contribution-grid-snake.svg)
+
 
