@@ -32,8 +32,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br/><br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathdevv&show_icons=true&theme=aura"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathdevv&theme=aura"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nbsantoss&show_icons=true&theme=aura"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsantoss&theme=aura"/>
 </p>
 <br/>
 
