@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    「 Desenvolvedor Backend Java</b> 」
+    「 Desenvolvedor Backend</b> 」
     <br>
   </samp>
 </p>
